@@ -6,4 +6,5 @@ function logUpTo(n)
   }
 }
 
-console.log(logUpTo(11))
+console.log(logUpTo(16))
+// O(n)

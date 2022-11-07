@@ -10,3 +10,4 @@ function subtotals(array) {
   }
   return subtotalArray;
 }
+// O(n^2)

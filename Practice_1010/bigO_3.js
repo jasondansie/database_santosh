@@ -5,4 +5,5 @@ function logAtMost5(n)
   }
 }
 
-console.log(logAtMost5(10))
+console.log(logAtMost5(100))
+// O(1)

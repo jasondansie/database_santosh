@@ -5,4 +5,5 @@ function logAtLeast5(n)
   }
 }
 
-console.log(logAtLeast5(10))
+console.log(logAtLeast5(100))
+// O(n)

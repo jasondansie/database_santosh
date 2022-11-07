@@ -7,3 +7,4 @@ function logAtMost10(n)
 }
 
 console.log(logAtMost10(11))
+// O(1)
